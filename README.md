@@ -16,3 +16,9 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
    13. Fonksiyonlar, IIFE ve Anonim Fonksiyonlar
    14. Döngüler
    15. Window Objeleri
+ - DOM Manipulasyonları
+ - DOM Eventleri
+ - Tarayıcı Depoloma Alanları
+ - ES6+ Özelleri
+ - JS ile OOP Kullanımı
+ - Asenkron Programlama

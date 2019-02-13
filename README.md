@@ -1,21 +1,21 @@
 # Javascript Öğreniyorum
 Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları içermektedir.<br/>
  - ~~Javascript Temelleri~~
-   - Giriş
-   - Console
-   - Değişkenler, Veri Tipleri
-   - Var, Let, Const
-   - Tip Dönüşümleri
-   - Operatörler ve Math Fonksiyonları
-   - String Metodlar
-   - Template Literal
-   - Diziler
-   - Nesne Kavramı
-   - Zaman Objeleri
-   - Karşılaştırma Operatörleri, Koşullar, Ternary
-   - Fonksiyonlar, IIFE ve Anonim Fonksiyonlar
-   - Döngüler
-   - Window Objeleri
+   - ~~Giriş~~
+   - ~~Console~~
+   - ~~Değişkenler, Veri Tipleri~~
+   - ~~Var, Let, Const~~
+   - ~~Tip Dönüşümleri~~
+   - ~~Operatörler ve Math Fonksiyonları~~
+   - ~~String Metodlar~~
+   - ~~Template Literal~~
+   - ~~Diziler~~
+   - ~~Nesne Kavramı~~
+   - ~~Zaman Objeleri~~
+   - ~~Karşılaştırma Operatörleri, Koşullar, Ternary~~
+   - ~~Fonksiyonlar, IIFE ve Anonim Fonksiyonlar~~
+   - ~~Döngüler~~
+   - ~~Window Objeleri~~
  - DOM Manipulasyonları
  - DOM Eventleri
  - Tarayıcı Depoloma Alanları

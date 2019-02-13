@@ -1,6 +1,6 @@
 # Javascript Öğreniyorum
 Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları içermektedir.<br/>
- 1. ~~Javascript Temelleri~~
+ - ~~Javascript Temelleri~~
    - Giriş
    - Console
    - Değişkenler, Veri Tipleri
@@ -16,9 +16,9 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
    - Fonksiyonlar, IIFE ve Anonim Fonksiyonlar
    - Döngüler
    - Window Objeleri
- 2. DOM Manipulasyonları
- 3. DOM Eventleri
- 4. Tarayıcı Depoloma Alanları
- 5. ES6+ Özelleri
- 6. JS ile OOP Kullanımı
- 7. Asenkron Programlama
+ - DOM Manipulasyonları
+ - DOM Eventleri
+ - Tarayıcı Depoloma Alanları
+ - ES6+ Özelleri
+ - JS ile OOP Kullanımı
+ - Asenkron Programlama

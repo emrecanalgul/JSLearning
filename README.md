@@ -32,5 +32,5 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
  - Asenkron Programlama
  
 # Kaynaklar
- -[Komple Modern JavaScript Kursu - ES6+](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/)
- -[Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
+ - [Komple Modern JavaScript Kursu - ES6+](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/)
+ - [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)

@@ -26,7 +26,14 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - ~~Elementleri Değiştirme~~
     - ~~Dinamik Attribute Değiştirme, Silme, Ekleme~~
  - DOM Eventleri
+    - ~~EventListeners ve Event Objesi~~
+    - ~~Keyboard Eventleri~~
+    - ~~Mouse Eventleri~~
+    - ~~Input Eventleri~~
+    - ~~Event Capturing ve Bubling~~
  - Tarayıcı Depoloma Alanları
+    - ~~Session Storage~~
+    - ~~Local Storage~~
  - ES6+ Özelleri
  - JS ile OOP Kullanımı
  - Asenkron Programlama

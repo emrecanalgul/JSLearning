@@ -35,6 +35,12 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - ~~Session Storage~~
     - ~~Local Storage~~
  - ES6+ Özelleri
+    - ~~Arrow Function~~
+    - ~~Destructing~~
+    - ~~Spread Operator~~
+    - ~~For In & For Of~~
+    - ~~Maps~~
+    - ~~Sets~~
  - JS ile OOP Kullanımı
  - Asenkron Programlama
  

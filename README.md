@@ -47,7 +47,7 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - ~~Object.Create Metodu~~
     - ~~Function Prototype~~
     - ~~Prototype Tabanlı Kalıtım~~
-    - ~~ES6 - Sınıf ~~
+    - ~~ES6 - Sınıf~~
     - ~~ES6 - Static Metodlar~~
     - ~~ES6 - Kalıtım~~
  - Asenkron Programlama

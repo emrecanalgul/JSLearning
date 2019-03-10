@@ -51,6 +51,13 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - ~~ES6 - Static Metodlar~~
     - ~~ES6 - Kalıtım~~
  - Asenkron Programlama
+    - ~~Ajax ile Text Dosyası İşlemleri~~
+    - ~~Ajax ile JSON işlemleri~~
+    - ~~Ajax ile External bir API ile~~
+    - ~~SetTimeOut ve SetInterval~~
+    - ~~CallBack Fonksiyonları~~
+    - ~~Ajax ile GET, POST, PUT, DELETE İşlemleri~~
+
  
 # Kaynaklar
  - [Komple Modern JavaScript Kursu - ES6+](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/)

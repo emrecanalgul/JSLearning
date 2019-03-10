@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Emre Can",
+        "Depertman":"IT",
+        "Salary":"4000"
+    },
+    {
+        "name":"Can",
+        "Depertman":"HR",
+        "Salary":"3000"
+    },
+    {
+        "name":"Mehmet",
+        "Depertman":"Yönetim",
+        "Salary":"8000"
+    },
+    {
+        "name":"Veli",
+        "Depertman":"İK",
+        "Salary":"4000"
+    },
+    {
+        "name":"Ahmet",
+        "Depertman":"Bilişim",
+        "Salary":"4000"
+    }
+]

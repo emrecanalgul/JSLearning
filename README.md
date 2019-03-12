@@ -61,6 +61,13 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - ~~Fetch Kullanımı~~
     - ~~Fetch ve Promise ile HTTP İstekleri.~~
     - ~~Async, Await Yapısı İle HTTP İstekleri.~~
+ - Alıştırmalar
+    - Pong
+    - Todo
+    - Translate
+
+
+
  
 # Kaynaklar
  - [Komple Modern JavaScript Kursu - ES6+](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/)

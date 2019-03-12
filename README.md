@@ -65,6 +65,7 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - Pong
     - Todo
     - Translate
+    - Exchange Rate
 
 
 

@@ -66,6 +66,8 @@ Javascript programlama dilini öğrenirken çalıştığım örnek dosyaları i�
     - Todo
     - Translate
     - Exchange Rate
+    - Githup API Repo Info
+
 
 
 
